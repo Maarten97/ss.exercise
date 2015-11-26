@@ -11,4 +11,5 @@ public class Hello {
 		this.hasTail = tail;
 		this.color = color;
 		this.awake = awake;
+	}
 }
