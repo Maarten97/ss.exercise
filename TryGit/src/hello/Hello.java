@@ -6,4 +6,9 @@ public class Hello {
 		//hello Maarten! -Gijs//
 		
 	}
+	public Bear(int legs, boolean tail, String color, boolean awake) {
+		this.legs = legs;
+		this.hasTail = tail;
+		this.color = color;
+		this.awake = awake;
 }
