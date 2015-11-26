@@ -7,4 +7,10 @@ public class Hello {
 		//Ich bin ein Berliner...   Berlinerbol!!!
 		
 	}
+	public Bear(int legs, boolean tail, String color, boolean awake) {
+		this.legs = legs;
+		this.hasTail = tail;
+		this.color = color;
+		this.awake = awake;
+	}
 }
