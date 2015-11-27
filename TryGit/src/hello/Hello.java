@@ -9,7 +9,7 @@ public class Hello {
 		
 	}
 	public Bear(int legs, boolean tail, String color, boolean awake) {
-		this.legs = legs;
+ 		this.legs = legs;
 		this.hasTail = tail;
 		this.color = color;
 		this.awake = awake;
